@@ -31,7 +31,7 @@
             android:layout_height="140dp"
             android:layout_margin="10dp"
             android:alpha=".1"
-            android:src="@drawable/ic_outline_emoji_food_beverage_24" />
+            android:src="@drawable/ic_coffe_outline" />
 
 
         <LinearLayout

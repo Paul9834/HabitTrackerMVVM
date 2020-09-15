@@ -2,11 +2,11 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
 
 
-    <item android:drawable="@drawable/ic_baseline_smoking_rooms_24"
+    <item android:drawable="@drawable/ic_smoke_base"
         android:state_selected="false"/>
 
 
-    <item android:drawable="@drawable/ic_outline_smoke_free_24"
+    <item android:drawable="@drawable/ic_smoke_outline"
         android:state_selected="true"/>
 
 
