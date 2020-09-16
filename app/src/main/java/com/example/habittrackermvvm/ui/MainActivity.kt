@@ -1,7 +1,8 @@
-package com.example.habittrackermvvm
+package com.example.habittrackermvvm.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.habittrackermvvm.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
