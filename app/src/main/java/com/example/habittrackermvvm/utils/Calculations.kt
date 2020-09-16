@@ -82,7 +82,7 @@ object Calculations {
        return "$day/$month/$_year"
     }
 
-    fun cleanTime(_hour:Int, _minute: Int, _sec:Int) : String {
+    fun cleanTime(_hour:Int, _minute: Int) : String {
         var hour = _hour.toString()
         var minute = _minute.toString()
 
